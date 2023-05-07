@@ -15,9 +15,10 @@ Python Projects For Beginners To Advanced Programming Method and Logical Buildin
 13. Correct Spellings using Python
 14. Scraping Github Profile using Python
 15. Visualize Linear Relationships using Python
-16. Generate Text using Python
-17. Scrape Table From a Website using Python
-18. Extract Text From PDF using Python
-19. Reversing a String using Python
-20. Match Sequences using Python
+16. Reverse a String using Python
+17. SequenceMatcher in Python
+18. Create Font Art using Python
+19. Create Dummy Data using Python
+20. Price Elasticity of Demand using Python
+
 
